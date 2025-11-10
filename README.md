@@ -75,7 +75,7 @@ This project simulates a real enterprise-grade setup where a **React-based Netfl
 
 ## 📽️ How to do this Project?
 
-> This project is documented through a **5-Part YouTube Series**, each building upon the previous one.
+
 
 | Part | Title | Description |
 |------|--------|-------------|
